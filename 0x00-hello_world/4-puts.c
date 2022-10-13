@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
-*main - the first function
-*return: Meant to return 0
+* main - The first function
+* return: Meant to return 0
 */
 
 int main(void)
