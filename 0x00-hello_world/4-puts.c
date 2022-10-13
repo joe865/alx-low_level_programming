@@ -1,12 +1,12 @@
 #include <stdio.h>
 
  /**
- * main - Entry 
+ * main - Entry
  * return: Meant to return 0
  */
 
 int main(void)
-{
+{	/*main - first fuction*/
 	puts("\"Programming is like building a multilingual puzzle");
 	return (0);
 }
