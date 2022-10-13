@@ -1,11 +1,8 @@
 #include <stdio.h>
-
 /**
- * main - Entry
- * Return: This returns 0
- *
+ * main - Entry point
+ * Return: Always zero
  */
-
 int main(void)
 {
 	printf("with proper grammar, but the outcome is a piece of art,\n");
