@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
-* main - The first function
-* return: Meant to return 0
-*/
+ * main: The first function
+ * return: Meant to return 0
+ */
 
 int main(void)
 {
