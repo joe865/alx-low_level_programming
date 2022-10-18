@@ -6,7 +6,7 @@
  * Return: 1 only when n is greater than 0, when n is 0 return 0 ,  when less than 0 
  * return -1
  */
-int _isalpha(int s)
+int print_sign(int s)
 {
 	if (s > 0)
 	{
