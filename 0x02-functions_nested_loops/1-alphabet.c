@@ -1,5 +1,6 @@
 #include "main.h"
 /**
+ * main: first function
  * Return: Returns 0
  * print_alphabet: function
  */
