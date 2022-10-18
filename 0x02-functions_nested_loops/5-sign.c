@@ -13,7 +13,7 @@ int _isalpha(int s)
 		_putchar ('+');
 		return (1);
 	}
-	if (s = 0)
+	if (s == 0)
 	{
 		_putchar ('0');
 		return (0);
