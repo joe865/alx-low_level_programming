@@ -9,9 +9,9 @@
 int _isalpha(int s)
 {
 	if (s > 0)
-		return("+, 1");
+		_putchar ('+, 1');
 	if (s = 0)
-		return ("0, 0");
+		_putchar ('0, 0');
 	else
-		return ("-, -1");
+		_putchar ('-, -1');
 }
