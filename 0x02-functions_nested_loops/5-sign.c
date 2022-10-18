@@ -1,10 +1,9 @@
 #include "main.h"
 
 /**
- * print_sign - print signs of number 
+ * print_sign - print signs of number
  * @s: A charcter
- * Return: 1 only when n is greater than 0, when n is 0 return 0 ,  when less than 0 
- * return -1
+ * Return: 1 only when n is greater than 0, when n is 0 return 0
  */
 int print_sign(int s)
 {
