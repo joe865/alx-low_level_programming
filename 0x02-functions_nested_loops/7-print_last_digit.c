@@ -1,18 +1,22 @@
 #include "main.h"
 
 /**
- * print_last_last dugit: points at last didgit
- * @s: the number
- * Return: vakue of the last digit
+ * print_last_digit - checks number
+ * @j: integer receipt by main.
+ * Return: Returns r when it is positive absolute value,
  */
-int print_last_digit(int s)
+int print_last_digit(int j)
 {
-	int ld = s % 10;
+	int i;
 	
-	if (ld < 0)
-		ld *= -1;
-	
-	_putchar (ld +'0');
+	i = j % 10;
 
-	return (0);
+	if (i < 0)
+	{
+		i *= -1;
+	}
+	_putchar(i + '0');
+	return (i);
 }
+
+	
