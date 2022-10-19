@@ -3,7 +3,7 @@
 /**
  * add - Add two integers by function.
  * @i: First integer variable to add.
- * @i: First integer variable to add.
+ * @l: Second variable to sum.
  * Return: return with summation.
  */
 int add(int i, int l)
