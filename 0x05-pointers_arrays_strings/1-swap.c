@@ -2,10 +2,9 @@
 
 /**
  * swap_int- Swap digits in functions
- * @a: int a 
+ * @a: int a
  * @b: int b
  */
-
 void swap_int(int *a, int *b)
 {
 	int temp = *a;
