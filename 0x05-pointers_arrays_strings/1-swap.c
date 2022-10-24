@@ -1,4 +1,3 @@
-#include <stdin.h>
 #include "main.h"
 
 /**
